@@ -1,0 +1,18 @@
+
+
+#countdown-container, .card-holder
+{
+    text-align:center;
+}
+
+
+.question-div
+{
+    font-weight:bold;
+}
+
+.theQuote
+{
+    font-style:italic;
+    font-size:1rem;
+}
